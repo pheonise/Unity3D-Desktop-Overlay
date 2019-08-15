@@ -10,3 +10,6 @@ Includes examples for:
 - Listening for Input when unfocused (eg: spawning a prefab when clicking)
 - Cursor trails
 - Moving the cursor
+
+
+[Consider supporting!](https://pheonise.itch.io/tip-jar)
