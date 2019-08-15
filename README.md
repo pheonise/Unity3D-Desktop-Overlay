@@ -1,7 +1,7 @@
 # Unity3D-Desktop-Overlay
-Render a Unity3D game as a transparent desktop overlay
 
-This project allows you to create a desktop overlay for Windows.
+This project demonstrates how to create transparent desktop overlays for Windows.
+
 [![View example on YouTube](https://img.youtube.com/vi/0q-WCm_jOnE/0.jpg)](https://www.youtube.com/watch?v=0q-WCm_jOnE)
 
 Includes examples for:
