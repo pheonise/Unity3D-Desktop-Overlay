@@ -13,7 +13,7 @@ Includes examples for:
 - Moving the cursor
 
 Editor Compatibility:
-Should be compatible with all Unity2D Editor versions prior to 2019.1, and 2019.1.7f1 and above.    
+Should be compatible with all Unity3D Editor versions prior to 2019.1, and 2019.1.7f1 and above.    
 See [HERE](https://forum.unity.com/threads/window-as-transparent-overlay-not-working-since-2018-3-0b12.593653/) for information about incompatible versions
 
 [Consider supporting!](https://pheonise.itch.io/tip-jar)
